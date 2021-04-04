@@ -1,5 +1,7 @@
 smsapi_alertmanager_webhook
 
+This is simple webhook to intergrate alertmanager with https://www.smsapi.pl/
+
 You just need to provide login and password both in alertmanager webhook and $generate_pass variable.
 
 Then upload file to server with php handler
